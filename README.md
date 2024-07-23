@@ -29,6 +29,5 @@ A service for rating and recommending movies.
 
 ## 📫 Contact
 
-- **Email**: [sashatut2004@yandex.ru](mailto:sashatut2004@yandex.ru)
+- **Email**: sashatut2004@yandex.ru
 - **Telegram**: @s1lweak
-- **GitHub**: [SashaTyutyaev](https://github.com/SashaTyutyaev)
