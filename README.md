@@ -21,10 +21,10 @@ My name is Sasha Tyutyaev, and I am a Junior Java developer.
 
 ## 📚 My Projects
 
-### [Java ShareIt](https://github.com/SashaTyutyaev/java-shareit)
+### [ShareIt](https://github.com/SashaTyutyaev/java-shareit)
 A service for renting and exchanging items.
 
-### [Project 2](https://github.com/SashaTyutyaev/java-filmorate)
+### [Filmorate](https://github.com/SashaTyutyaev/java-filmorate)
 A service for rating and recommending movies.
 
 ## 📫 Contact
