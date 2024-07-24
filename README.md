@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Sasha Tyutyaev, and I am a Junior Java developer.
+My name is Sasha Tyutyaev, and I am a Java developer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SashaTyutyaev&color=blueviolet)
 
