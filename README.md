@@ -30,4 +30,4 @@ A service for rating and recommending movies.
 ## 📫 Contact
 
 - **Email**: sashatut2004@yandex.ru
-- **Telegram**: @s1lweak
+- **Telegram**: [@s1lweak](https://t.me/s1lweak)
