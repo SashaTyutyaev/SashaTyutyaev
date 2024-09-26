@@ -19,14 +19,6 @@ My name is Sasha Tyutyaev, and I am a Java developer.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SashaTyutyaev&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaTyutyaev&layout=compact&theme=radical)
 
-## 📚 My Projects
-
-### [ShareIt](https://github.com/SashaTyutyaev/java-shareit)
-A service for renting and exchanging items.
-
-### [Filmorate](https://github.com/SashaTyutyaev/java-filmorate)
-A service for rating and recommending movies.
-
 ## 📫 Contact
 
 - **Email**: sashatut2004@yandex.ru
